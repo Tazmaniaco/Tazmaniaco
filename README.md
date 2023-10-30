@@ -41,11 +41,11 @@
 <br/>
 
 <p align="center">
-<a href="https://github.com/Tazmaniaco"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tazmaniaco&theme=dark&hide_border=true&locale=pt_BR&border=5DC472&bg_color=183426&stroke=DBDBDB&fire=5DC472&sideNums=AFFCA7&currStreakLabel=183426&dates=AFFCA7&excludeDaysLabel=5DC472&ring=AFFCA7&currStreakNum=AFFCA7&sideLabels=5DC472&card_width=800" width="97%" alt="GitHub Streak" /></a>
+<a href="https://github.com/Tazmaniaco"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tazmaniaco&theme=dark&locale=pt_BR&border=5DC472&background=183426&stroke=DBDBDB&fire=5DC472&sideNums=AFFCA7&currStreakLabel=ffffff&dates=AFFCA7&excludeDaysLabel=5DC472&ring=AFFCA7&currStreakNum=AFFCA7&sideLabels=5DC472&card_width=800" width="97%" alt="GitHub Streak" /></a>
 </p>
 
 <a> 
-    <a href="https://github.com/Tazmaniaco"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Tazmaniaco&show_icons=true&count_private=true&theme=dark&border_color=5DC472&bg_color=183426&title_color=ffffff&icon_color=5DC472" height="192px" width="50.5%"/></a>
-  <a href="https://github.com/Tazmaniaco"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Tazmaniaco&langs_count=8&layout=compact&theme=dark&border_color=5DC472&bg_color=183426&title_color=ffffff&icon_color=ffffff" height="192px" width="48%"/></a>
+    <a href="https://github.com/Tazmaniaco"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Tazmaniaco&show_icons=true&count_private=true&theme=dark&border_color=5DC472&bg_color=183426&title_color=ffffff&icon_color=5DC472" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Tazmaniaco"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Tazmaniaco&langs_count=8&layout=compact&theme=dark&border_color=5DC472&bg_color=183426&title_color=ffffff&icon_color=ffffff" height="192px" width="49.5%"/></a>
   <br/>
 </a>
