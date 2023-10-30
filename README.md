@@ -1,5 +1,5 @@
 <p align="center">
-        <samp> > Oi, eu sou o <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000&color=5DC472&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=50&height=25&lines=Davi" alt="Typing SVG" />- Desenvolvedor Web
+        <samp style="font-weight: 700; font-size: 17px"> > Oi, eu sou o<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000&color=5DC472&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=50&height=25&lines=Davi" alt="Typing SVG" /></a>- Desenvolvedor Web
         </samp>
 </p>
 
