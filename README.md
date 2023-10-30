@@ -1,7 +1,7 @@
-<h3 align="center">
-        <samp> > Oi, eu sou o - Desenvolvedor Web
+<p align="center">
+        <samp> > Oi, eu sou o <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000&color=5DC472&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=50&height=25&lines=Davi" alt="Typing SVG" />- Desenvolvedor Web
         </samp>
-</h3>
+</p>
 
 <h3 align="center">
 <span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=5DC472&center=true&vCenter=true&multiline=true&random=false&width=600&height=60&lines=Desenvolvendo+arte+al%C3%A9m+do+papel+" alt="Typing SVG" /></span>
